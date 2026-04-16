@@ -1,5 +1,7 @@
 # IMDb-Top-260-Movies-Analytics-Power-BI-
 
+IMDb Top 260 Movies.png
+
 # 🎬 IMDb Top 260 Movies Analysis Dashboard
 
 ## 📌 Project Overview
